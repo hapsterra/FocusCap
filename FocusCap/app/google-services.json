@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665021320410",
+    "project_id": "focuscap-8bfcd",
+    "storage_bucket": "focuscap-8bfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665021320410:android:8f3f1b4ddbf8c54012e9e3",
+        "android_client_info": {
+          "package_name": "com.example.focuscap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665021320410-3ndhjjm1eetd3sijo7mc83dbm94j0710.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6t3_BCZqiGhF2q0lsnUnA6OAD5EMfxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665021320410-3ndhjjm1eetd3sijo7mc83dbm94j0710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
